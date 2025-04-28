@@ -4,6 +4,9 @@ module.exports = {
         {
           hostname: 'github.com',
         },
+        {
+          hostname: 'imtexpublicidad.mx',
+        },
       ],
     },
   }
